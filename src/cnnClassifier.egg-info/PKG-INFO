@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: cnnClassifier
+Version: 0.0.0
+Summary: small package for a cnn App
+Home-page: https://github.com/sumit-sk-yadav/kidney_disease_classifier_tut
+Author: sumit-sk-yadav
+Author-email: sumit.skumar.yadav@poton.me
+Project-URL: Bug Tracker, https://github.com/sumit-sk-yadav/kidney_disease_classifier_tut/issues
+Description-Content-Type: text/markdown
+
+# kidney_disease_classifier_tut
