@@ -1,1 +1,3 @@
-kidney/
+kidney/*
+artifacts/*
+__pycache__

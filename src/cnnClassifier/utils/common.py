@@ -127,6 +127,6 @@ def decodeImage(imgstring, fileName):
         f.close()
 
 @ensure_annotations
-def encodeImageIntoBase64(croppedimagepath:path):
+def encodeImageIntoBase64(croppedimagepath:Path):
     with open(croppedimagepath, 'rb') as f:
         return base64.b64encode(f.read())

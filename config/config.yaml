@@ -1,0 +1,7 @@
+artifacts_root: artifacts #folder called artifacts which will have all the data
+
+data_ingestion:
+  root_dir: artifacts/data_ingestion # root folder where the data will get downloaded to
+  source_URL: https://drive.google.com/file/d/15QjiJBAVfpVMwEqW2dBw3kqfCbPF5BLu/view?usp=sharing
+  local_data_file: artifacts/data_ingestion/data.zip
+  unzip_dir: artifacts/data_ingestion # folder where the unzipped data files would be going to
