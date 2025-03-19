@@ -1,5 +1,5 @@
 kidney/*
 artifacts/*
 __pycache__
-logs/*
 logs
+scores.json
