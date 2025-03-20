@@ -3,3 +3,5 @@ artifacts/*
 __pycache__
 logs/running_logs.log
 mlruns
+scores.json
+src/cnnClassifier.egg-info
