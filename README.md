@@ -1,4 +1,4 @@
-# Kidney Tumor Classifier
+# VGGlant - Kidney Tumor Classifier(POC)
 
 This project focuses on developing a deep learning model for classifying kidney tumors in medical images using a customized VGG16-based architecture. It addresses challenges such as class imbalance, overfitting, and efficient training on large datasets.
 
